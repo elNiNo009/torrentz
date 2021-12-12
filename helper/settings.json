@@ -1,0 +1,29 @@
+{
+    "git.ignoreLimitWarning": true,
+    "files.associations": {
+        "bitset": "cpp",
+        "vector": "cpp",
+        "system_error": "cpp",
+        "thread": "cpp",
+        "typeindex": "cpp",
+        "string_view": "cpp",
+        "optional": "cpp",
+        "initializer_list": "cpp",
+        "iostream": "cpp",
+        "*.tcc": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "iosfwd": "cpp",
+        "mutex": "cpp",
+        "shared_mutex": "cpp",
+        "*.cuh": "cpp",
+        "forward_list": "cpp",
+        "array": "cpp",
+        "future": "cpp",
+        "utility": "cpp",
+        "valarray": "cpp"
+    },
+    "C_Cpp.dimInactiveRegions": false
+}
