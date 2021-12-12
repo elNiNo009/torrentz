@@ -284,7 +284,7 @@ void handle_connection(int new_socket_fd, sockaddr_in *client_addrress)
 int main(int argc, char *argv[])
 {
 
-    //take the arguments
+    cout<<" welcome to torrentz"
     my_tracker_url = string(argv[1]);
     other_tracker_url = string(argv[2]);
     seeder_file = string(argv[3]);
